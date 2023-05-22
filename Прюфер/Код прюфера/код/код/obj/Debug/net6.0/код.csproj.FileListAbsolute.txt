@@ -1,0 +1,45 @@
+X:\Код прюфера\код\код\bin\Debug\net6.0\код.exe
+X:\Код прюфера\код\код\bin\Debug\net6.0\код.deps.json
+X:\Код прюфера\код\код\bin\Debug\net6.0\код.runtimeconfig.json
+X:\Код прюфера\код\код\bin\Debug\net6.0\код.dll
+X:\Код прюфера\код\код\bin\Debug\net6.0\код.pdb
+X:\Код прюфера\код\код\obj\Debug\net6.0\код.csproj.AssemblyReference.cache
+X:\Код прюфера\код\код\obj\Debug\net6.0\код.GeneratedMSBuildEditorConfig.editorconfig
+X:\Код прюфера\код\код\obj\Debug\net6.0\код.AssemblyInfoInputs.cache
+X:\Код прюфера\код\код\obj\Debug\net6.0\код.AssemblyInfo.cs
+X:\Код прюфера\код\код\obj\Debug\net6.0\код.csproj.CoreCompileInputs.cache
+X:\Код прюфера\код\код\obj\Debug\net6.0\код.dll
+X:\Код прюфера\код\код\obj\Debug\net6.0\refint\код.dll
+X:\Код прюфера\код\код\obj\Debug\net6.0\код.pdb
+X:\Код прюфера\код\код\obj\Debug\net6.0\код.genruntimeconfig.cache
+X:\Код прюфера\код\код\obj\Debug\net6.0\ref\код.dll
+C:\Users\matebook\OneDrive\Рабочий стол\Прюфер\Код прюфера\код\код\bin\Debug\net6.0\код.exe
+C:\Users\matebook\OneDrive\Рабочий стол\Прюфер\Код прюфера\код\код\bin\Debug\net6.0\код.deps.json
+C:\Users\matebook\OneDrive\Рабочий стол\Прюфер\Код прюфера\код\код\bin\Debug\net6.0\код.runtimeconfig.json
+C:\Users\matebook\OneDrive\Рабочий стол\Прюфер\Код прюфера\код\код\bin\Debug\net6.0\код.dll
+C:\Users\matebook\OneDrive\Рабочий стол\Прюфер\Код прюфера\код\код\bin\Debug\net6.0\код.pdb
+C:\Users\matebook\OneDrive\Рабочий стол\Прюфер\Код прюфера\код\код\obj\Debug\net6.0\код.csproj.AssemblyReference.cache
+C:\Users\matebook\OneDrive\Рабочий стол\Прюфер\Код прюфера\код\код\obj\Debug\net6.0\код.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matebook\OneDrive\Рабочий стол\Прюфер\Код прюфера\код\код\obj\Debug\net6.0\код.AssemblyInfoInputs.cache
+C:\Users\matebook\OneDrive\Рабочий стол\Прюфер\Код прюфера\код\код\obj\Debug\net6.0\код.AssemblyInfo.cs
+C:\Users\matebook\OneDrive\Рабочий стол\Прюфер\Код прюфера\код\код\obj\Debug\net6.0\код.csproj.CoreCompileInputs.cache
+C:\Users\matebook\OneDrive\Рабочий стол\Прюфер\Код прюфера\код\код\obj\Debug\net6.0\код.dll
+C:\Users\matebook\OneDrive\Рабочий стол\Прюфер\Код прюфера\код\код\obj\Debug\net6.0\refint\код.dll
+C:\Users\matebook\OneDrive\Рабочий стол\Прюфер\Код прюфера\код\код\obj\Debug\net6.0\код.pdb
+C:\Users\matebook\OneDrive\Рабочий стол\Прюфер\Код прюфера\код\код\obj\Debug\net6.0\код.genruntimeconfig.cache
+C:\Users\matebook\OneDrive\Рабочий стол\Прюфер\Код прюфера\код\код\obj\Debug\net6.0\ref\код.dll
+\\main\RDP\33П\ПотаповаКС\Desktop\Пр\Прюфер\Код прюфера\код\код\bin\Debug\net6.0\код.exe
+\\main\RDP\33П\ПотаповаКС\Desktop\Пр\Прюфер\Код прюфера\код\код\bin\Debug\net6.0\код.deps.json
+\\main\RDP\33П\ПотаповаКС\Desktop\Пр\Прюфер\Код прюфера\код\код\bin\Debug\net6.0\код.runtimeconfig.json
+\\main\RDP\33П\ПотаповаКС\Desktop\Пр\Прюфер\Код прюфера\код\код\bin\Debug\net6.0\код.dll
+\\main\RDP\33П\ПотаповаКС\Desktop\Пр\Прюфер\Код прюфера\код\код\bin\Debug\net6.0\код.pdb
+\\main\RDP\33П\ПотаповаКС\Desktop\Пр\Прюфер\Код прюфера\код\код\obj\Debug\net6.0\код.csproj.AssemblyReference.cache
+\\main\RDP\33П\ПотаповаКС\Desktop\Пр\Прюфер\Код прюфера\код\код\obj\Debug\net6.0\код.GeneratedMSBuildEditorConfig.editorconfig
+\\main\RDP\33П\ПотаповаКС\Desktop\Пр\Прюфер\Код прюфера\код\код\obj\Debug\net6.0\код.AssemblyInfoInputs.cache
+\\main\RDP\33П\ПотаповаКС\Desktop\Пр\Прюфер\Код прюфера\код\код\obj\Debug\net6.0\код.AssemblyInfo.cs
+\\main\RDP\33П\ПотаповаКС\Desktop\Пр\Прюфер\Код прюфера\код\код\obj\Debug\net6.0\код.csproj.CoreCompileInputs.cache
+\\main\RDP\33П\ПотаповаКС\Desktop\Пр\Прюфер\Код прюфера\код\код\obj\Debug\net6.0\код.dll
+\\main\RDP\33П\ПотаповаКС\Desktop\Пр\Прюфер\Код прюфера\код\код\obj\Debug\net6.0\refint\код.dll
+\\main\RDP\33П\ПотаповаКС\Desktop\Пр\Прюфер\Код прюфера\код\код\obj\Debug\net6.0\код.pdb
+\\main\RDP\33П\ПотаповаКС\Desktop\Пр\Прюфер\Код прюфера\код\код\obj\Debug\net6.0\код.genruntimeconfig.cache
+\\main\RDP\33П\ПотаповаКС\Desktop\Пр\Прюфер\Код прюфера\код\код\obj\Debug\net6.0\ref\код.dll

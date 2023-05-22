@@ -1,0 +1,67 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\ПотаповаКС\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "\\\\main\\RDP\\33П\\ПотаповаКС\\Desktop\\Пр\\Прюфер\\Код прюфера\\код\\код\\код.csproj",
+      "projectName": "код",
+      "projectPath": "\\\\main\\RDP\\33П\\ПотаповаКС\\Desktop\\Пр\\Прюфер\\Код прюфера\\код\\код\\код.csproj",
+      "packagesPath": "C:\\Users\\ПотаповаКС\\.nuget\\packages\\",
+      "outputPath": "\\\\main\\RDP\\33П\\ПотаповаКС\\Desktop\\Пр\\Прюфер\\Код прюфера\\код\\код\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ПотаповаКС\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.311\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
